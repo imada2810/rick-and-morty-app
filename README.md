@@ -58,5 +58,5 @@ Após o login bem-sucedido, o usuário será redirecionado para a tela principal
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/guilhermesandrade/RickAndMorty
+   git clone https://github.com/imada2810/RickAndMorty
    cd RickAndMorty
